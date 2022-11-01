@@ -14,7 +14,7 @@ def basic():
     #     /     for a / b
     #     *     for a * b
     # =============================================================================
-
+    print("Basic function called")
     op = input(
         'What kind of operation would you like to do?\
         \nChoose between "+, -, *, /" : ')
